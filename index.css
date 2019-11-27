@@ -1,0 +1,89 @@
+body {
+    background-color: #232323;
+    margin: 0;
+    font-family: "Avenir";
+}
+
+.heading {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: normal;
+    color: white;
+}
+
+.jumbotron {
+    background: steelblue;
+    margin: 0;
+    padding: 20px 0;
+    text-transform: uppercase;
+}
+
+#colorDisplay {
+    font-size: 150%;
+}
+
+#option-section {
+    background-color: white;
+    height: 30px;
+    text-align: center;
+}
+
+#status {
+    display: inline-block;
+    width: 20%;
+}
+
+.btn {
+    font-weight: 50;
+}
+
+.btn:hover {
+    color: white;
+    background-color: steelblue;
+}
+
+.square {
+    width: 30%;
+    background: purple;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.66%;
+    border-radius: 20%;
+    transition: background 0.6s;
+    --webskit-transition: background 0.6s;
+    -moz-transition: background 0.6s;
+}
+
+#container {
+    margin: 20px auto;
+    max-width: 600px;
+}
+
+.selected {
+    background: steelblue;
+    color: white;
+}
+
+.done {
+    opacity: 0;
+    transition: opacity .25s ease-in-out;
+}
+
+.easy {
+    opacity: 0;
+    transition: opacity .25s ease-in-out;   
+}
+
+button {
+    border: none;
+    background: none;
+    text-transform: uppercase;
+    height: 100%;
+    color: steelblue;
+    letter-spacing: 1px;
+    font-size: inherit;
+    transition: all 0.3s;
+    --webskit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    outline: none;
+}
