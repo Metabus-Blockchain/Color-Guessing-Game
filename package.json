@@ -13,9 +13,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BrianCHOII/Color-Guessing-Game/issues"
+    "url": "https://github.com/BrianCHOII/Color-Guessing-Game"
   },
-  "homepage": "https://github.com/BrianCHOII/Color-Guessing-Game#readme",
+  "homepage": "https://BrianCHOII.github.io/Color-Guessing-Game",
   "dependencies": {
     "gh-pages": "^2.2.0"
   }
