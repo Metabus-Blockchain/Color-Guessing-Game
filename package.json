@@ -1,0 +1,22 @@
+{
+  "name": "color-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages -d"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianCHOII/Color-Guessing-Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrianCHOII/Color-Guessing-Game/issues"
+  },
+  "homepage": "https://github.com/BrianCHOII/Color-Guessing-Game#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
